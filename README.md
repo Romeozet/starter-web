@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Deployment is simple.
 
 ## How to contribute
+
+Anyone can contribute.
+
+## Authors
