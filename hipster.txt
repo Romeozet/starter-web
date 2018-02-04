@@ -1,0 +1,3 @@
+I am sure all developers love git and notepad++ as a editor. When you are doing web development on windows, its boring to go to the git bash to commit your files. But, there is a convenient way to commit files from notepad++ itself.
+
+Here are a few steps to use git and commit your files from Notepad++:
